@@ -1,8 +1,14 @@
 {
+  "cleanUrls": true,
+  "trailingSlash": false,
   "rewrites": [
     {
+      "source": "/:path((?!api/).*)",
+      "destination": "/:path.html"
+    },
+    {
       "source": "/:path*",
-      "destination": "/index.html"
+      "destination": "/404.html"
     }
   ]
 }
