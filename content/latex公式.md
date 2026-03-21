@@ -40,7 +40,6 @@ $$
 \lim_{x \to 0} \frac{\sin x}{x} = 1
 $$
 ```
-
 $$
 \lim_{x \to x_0} \frac{f(x)}{g(x)} \overset{\text{洛必达}}{=} \lim_{x \to x_0} \frac{f'(x)}{g'(x)}
 $$
