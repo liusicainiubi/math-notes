@@ -41,7 +41,9 @@ $$
 $$
 ```
 
-$$\lim_{x \to x_0} \frac{f(x)}{g(x)} \overset{\text{洛必达}}{=} \lim_{x \to x_0} \frac{f'(x)}{g'(x)}$$
+$$
+\lim_{x \to x_0} \frac{f(x)}{g(x)} \overset{\text{洛必达}}{=} \lim_{x \to x_0} \frac{f'(x)}{g'(x)}
+$$
 代码段
 ```
 $$
