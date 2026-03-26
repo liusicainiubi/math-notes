@@ -6,4 +6,5 @@
 ### ω
 ![[Pasted image 20260326140849.png]]
 ### φ
-![[Pasted image 20260326141033.png]]![[Pasted image 20260326141339.png]]
+![[Pasted image 20260326141033.png]]
+![[3.26.png]]
