@@ -1,4 +1,16 @@
+
+### A
+![[Pasted image 20260326140658.png]]
+### B
+![[Pasted image 20260326140748.png]]
+### ω
+![[Pasted image 20260326140849.png]]
+### φ
+![[Pasted image 20260326141033.png]]
+![[3.26.png]]
+
 ![[Pasted image 20260326142231.png|697]]
+## f(x)=Asin(wx+φ)+B的性质
 ### 例题
 ![[Pasted image 20260326143120.png]]
 ![[Pasted image 20260326143709.png]]
